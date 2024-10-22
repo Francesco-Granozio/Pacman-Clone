@@ -1,3 +1,116 @@
-/Debug
-/x64
-/.vs
+# File di configurazione del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+Build/
+bin/
+Bin/
+Debug/
+debug/
+Release/
+release/
+
+# CMake build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE specifici
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userossc
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.tlog
+*.obj
+*.o
+*.exe
+*.log
+*.app
+*.lib
+*.dll
+
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xcworkspace
+*.xcuserstate
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.qmake.cache
+
+# Code::Blocks
+*.layout
+*.depend
+*.layout
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Test results
+*.gcda
+*.gcno
+*.gcov
+
+# C++ cache
+*.d
+*.s
+
+# Object files
+*.o
+*.obj
+
+# Executables and shared libraries
+*.exe
+*.out
+*.app
+*.lib
+*.a
+*.so
+*.dylib
+*.dll
+
+# Static libraries
+*.lib
+*.a
+
+# Logs
+*.log
+*.trace
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+*.temp
+
+# Compiled static libraries
+*.lib
+*.a
+
+# Compiled dynamic libraries
+*.dll
+*.so
+*.dylib
