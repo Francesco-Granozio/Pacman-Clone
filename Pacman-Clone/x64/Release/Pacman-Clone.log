@@ -1,0 +1,88 @@
+﻿  GameOverState.cpp
+  MainMenuState.cpp
+C:\Shared\C-C++\C++\PacMan\Src\Tile.h(12,25): warning C4244: 'return': conversione da 'double' a 'int'. Possibile perdita di dati.
+  (compilazione del file di origine 'Src/States/MainMenuState/MainMenuState.cpp')
+  
+  GameState.cpp
+C:\Shared\C-C++\C++\PacMan\Src\Tile.h(12,25): warning C4244: 'return': conversione da 'double' a 'int'. Possibile perdita di dati.
+  (compilazione del file di origine 'Src/States/GameState/GameState.cpp')
+  
+  AudioManager.cpp
+C:\Shared\C-C++\C++\PacMan\Src\Audio\AudioManager.cpp(36,35): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Shared\C-C++\C++\PacMan\Src\Audio\AudioManager.cpp(41,33): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Shared\C-C++\C++\PacMan\Src\Audio\AudioManager.cpp(46,30): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Shared\C-C++\C++\PacMan\Src\Audio\AudioManager.cpp(51,30): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Shared\C-C++\C++\PacMan\Src\Audio\AudioManager.cpp(56,34): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Shared\C-C++\C++\PacMan\Src\Audio\AudioManager.cpp(61,30): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Shared\C-C++\C++\PacMan\Src\Audio\AudioManager.cpp(66,35): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+  Clyde.cpp
+C:\Shared\C-C++\C++\PacMan\Src\Tile.h(12,25): warning C4244: 'return': conversione da 'double' a 'int'. Possibile perdita di dati.
+  (compilazione del file di origine 'Src/Entity/Enemy/Clyde.cpp')
+  
+  Inky.cpp
+C:\Shared\C-C++\C++\PacMan\Src\Tile.h(12,25): warning C4244: 'return': conversione da 'double' a 'int'. Possibile perdita di dati.
+  (compilazione del file di origine 'Src/Entity/Enemy/Inky.cpp')
+  
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Enemy\Inky.cpp(35,2): warning C4060: istruzione switch senza etichette 'case' o 'default'
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Enemy\Inky.cpp(23,2): warning C4102: 'Up': etichetta senza riferimenti
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Enemy\Inky.cpp(26,2): warning C4102: 'Down': etichetta senza riferimenti
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Enemy\Inky.cpp(29,2): warning C4102: 'Left': etichetta senza riferimenti
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Enemy\Inky.cpp(32,2): warning C4102: 'Right': etichetta senza riferimenti
+  Pinky.cpp
+C:\Shared\C-C++\C++\PacMan\Src\Tile.h(12,25): warning C4244: 'return': conversione da 'double' a 'int'. Possibile perdita di dati.
+  (compilazione del file di origine 'Src/Entity/Enemy/Pinky.cpp')
+  
+  Blinky.cpp
+C:\Shared\C-C++\C++\PacMan\Src\Tile.h(12,25): warning C4244: 'return': conversione da 'double' a 'int'. Possibile perdita di dati.
+  (compilazione del file di origine 'Src/Entity/Enemy/Blinky.cpp')
+  
+  Debug.cpp
+C:\Shared\C-C++\C++\PacMan\Src\Tile.h(12,25): warning C4244: 'return': conversione da 'double' a 'int'. Possibile perdita di dati.
+  (compilazione del file di origine 'Src/Debugger/Debug.cpp')
+  
+  Enemy.cpp
+C:\Shared\C-C++\C++\PacMan\Src\Tile.h(12,25): warning C4244: 'return': conversione da 'double' a 'int'. Possibile perdita di dati.
+  (compilazione del file di origine 'Src/Entity/Enemy/Enemy.cpp')
+  
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Enemy\Enemy.cpp(27,28): warning C4244: 'argomento': conversione da 'T' a 'T'. Possibile perdita di dati.
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Enemy\Enemy.cpp(27,28): warning C4244:         with
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Enemy\Enemy.cpp(27,28): warning C4244:         [
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Enemy\Enemy.cpp(27,28): warning C4244:             T=int
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Enemy\Enemy.cpp(27,28): warning C4244:         ]
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Enemy\Enemy.cpp(27,28): warning C4244:         and
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Enemy\Enemy.cpp(27,28): warning C4244:         [
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Enemy\Enemy.cpp(27,28): warning C4244:             T=float
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Enemy\Enemy.cpp(27,28): warning C4244:         ]
+  Pathfinding.cpp
+C:\Shared\C-C++\C++\PacMan\Src\Tile.h(12,25): warning C4244: 'return': conversione da 'double' a 'int'. Possibile perdita di dati.
+  (compilazione del file di origine 'Src/Pathfinding/Pathfinding.cpp')
+  
+  Animation.cpp
+  Animator.cpp
+  Entity.cpp
+C:\Shared\C-C++\C++\PacMan\Src\Tile.h(12,25): warning C4244: 'return': conversione da 'double' a 'int'. Possibile perdita di dati.
+  (compilazione del file di origine 'Src/Entity/Entity.cpp')
+  
+  GameManager.cpp
+  main.cpp
+  Pacman.cpp
+C:\Shared\C-C++\C++\PacMan\Src\Tile.h(12,25): warning C4244: 'return': conversione da 'double' a 'int'. Possibile perdita di dati.
+  (compilazione del file di origine 'Src/Entity/Pacman/Pacman.cpp')
+  
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Pacman\Pacman.cpp(24,28): warning C4244: 'argomento': conversione da 'int' a 'T'. Possibile perdita di dati.
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Pacman\Pacman.cpp(24,28): warning C4244:         with
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Pacman\Pacman.cpp(24,28): warning C4244:         [
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Pacman\Pacman.cpp(24,28): warning C4244:             T=float
+C:\Shared\C-C++\C++\PacMan\Src\Entity\Pacman\Pacman.cpp(24,28): warning C4244:         ]
+  Snack.cpp
+C:\Shared\C-C++\C++\PacMan\Src\Tile.h(12,25): warning C4244: 'return': conversione da 'double' a 'int'. Possibile perdita di dati.
+  (compilazione del file di origine 'Src/Entity/Snack/Snack.cpp')
+  
+  State.cpp
+  Button.cpp
+  Generazione codice in corso...
+  Previous IPDB not found, fall back to full compilation.
+C:\Shared\C-C++\C++\PacMan\Src\Audio\AudioManager.cpp(136): warning C4715: 'AudioManager::IsPlayingAudio': non tutti i percorsi di controllo restituiscono un valore
+  All 844 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generazione codice terminata
+  Pacman-Clone.vcxproj -> C:\Shared\C-C++\C++\PacMan\x64\Release\Pacman-Clone.exe

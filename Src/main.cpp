@@ -1,18 +1,17 @@
 #include "GameManager.h"
 #include <Windows.h>
-GameManager* gameManager = new GameManager();
 
 int main()
 {
+	GameManager gameManager;
 #ifdef NDEBUG
-    HWND hwnd = GetConsoleWindow();
-    ShowWindow(hwnd, SW_HIDE);
+	HWND hwnd = GetConsoleWindow();
+	ShowWindow(hwnd, SW_HIDE);
 #endif
 
-    gameManager->StartGameManager();
+	gameManager.StartGameManager();
 
-    gameManager->Update();
+	gameManager.Update();
 
-    delete gameManager;
-    return 0;
+	return 0;
 }
